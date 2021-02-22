@@ -1,0 +1,10 @@
+/* usando o titulo como id */
+#titulo {
+    color: green;
+    text-align: center;
+}
+/* usando o hoje para class */
+.hoje {
+    color: red;
+    text-align: center;
+}
