@@ -1,0 +1,18 @@
+body{
+    width: 95%;
+    margin: auto;
+    background: url(Publicity_d107.jpg) center;
+
+    font-family: 'Redressed', cursive;
+    line-height: 1.9;
+    color: #a61655;
+}
+
+main{
+    background: #000000ba;
+    border-radius: 10px;
+}
+
+.imagem{
+    text-align: center;
+}
